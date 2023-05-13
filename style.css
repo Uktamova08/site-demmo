@@ -1,0 +1,158 @@
+html {
+    height: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+
+.images {
+    font-size: 860px ;
+    width: 50px;
+    height: 35px;
+    border-radius: 50%;
+   
+} 
+
+.header-top {
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.headernav {
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+   
+
+
+}
+
+.headernav-list {
+    margin: 28px;
+    list-style: none;
+
+}
+
+.headernav-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    height: 300px;
+    background-color: darkorchid;
+
+}
+
+.hero-heading {
+    list-style: none;
+    text-align: center;
+    color: #fff;
+
+}
+
+.hero-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: #fff;
+
+}
+
+
+
+.feature-heading {
+    text-align: center;
+    color: #fff;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+
+
+
+}
+
+.parent1 {
+    
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    background-color: blue;
+    margin: 10px;
+    text-align: center;
+    color: #fff;
+ 
+}
+
+
+
+.parent2 {
+    display: flex;
+    justify-content: space-between;                                                     
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    background-color: blue;
+    margin: 10px;
+    color: #fff;
+
+}
+
+.link {
+    color: #fff;
+    background-color: #252425;
+    border-radius: 10px;
+    padding: 12px 24px;
+    text-decoration: none;
+}
+
+.feature {
+    background-color: #333;
+    padding-bottom: 200px;
+}
+
+.footer-top {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.footer-list {
+    margin: 28px;
+    list-style: none;
+}
+
+.feature-link {
+    color: #fff;
+    text-decoration: none;
+}
